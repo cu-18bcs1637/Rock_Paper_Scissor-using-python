@@ -1,5 +1,4 @@
 import utils
-# import the random module
 import random
 
 print('Starting the Rock Paper Scissors game!')
